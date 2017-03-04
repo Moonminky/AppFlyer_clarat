@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">clarat - Find help online</string>
+    <string name="header">clarat</string>
+    <string name="flogo">clarat family logo</string>
+    <string name="rflogo">clarat refugees logo</string>
+    <string name="mail">post@clarat.org</string>
+    <string name="url">www.clarat.org/en</string>
+    <string name="descr">clarat is an online platform where you can find help and support services.
+        In Germany, there are a lot of support services for children, teenagers and families. As well as for refugees.
+        But they\'re often very hard to find. With clarat, it\'s easy to find help. You should search on clarat family if you\'re
+        looking for help for children, teenagers and families who have problems. And on clarat refugees if you\'re looking for
+        help for refugees."</string>
+</resources>
